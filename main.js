@@ -73,7 +73,7 @@
       }
     ]
   }
-  else {
+  else if(vuosi=="hauki00"){
       var arvot = [
         {
           "2000": 127,
